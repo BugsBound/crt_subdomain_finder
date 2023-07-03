@@ -15,11 +15,11 @@ You can download Rust from the official website: [https://www.rust-lang.org/tool
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/BugsBound/crt_subdomain_finder.git
     ```
 2. Navigate into the directory:
     ```bash
-    cd yourproject
+    cd crt_subdomain_finder
     ```
 3. Build the project:
     ```bash
