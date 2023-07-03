@@ -1,5 +1,3 @@
-Извините за недоразумение, вот обновленный README.md:
-
 # CRT Subdomain Finder
 
 This application uses the Certificate Transparency Logs provided by crt.sh to find all subdomains of a specified domain.
